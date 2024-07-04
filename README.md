@@ -42,7 +42,7 @@ Check out the live demo of the application at (https://adeelahmad2295.github.io/
 
 ## Authors
 
-- https://github.com/imsahadeb](https://github.com/AdeelAhmad2295
+- [@AdeelAhmad](https://github.com/AdeelAhmad2295)
 
 ## License
 
